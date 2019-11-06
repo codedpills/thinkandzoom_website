@@ -11,6 +11,10 @@ a {
     color: #E74C3C;
 }
 
+.btn-rounded {
+    border-radius: 25px;
+}
+
 .navbar-toggler {
     padding: .25rem .75rem;
     font-size: 1.25rem;
@@ -59,7 +63,7 @@ a {
 .slider {
     background-color: #E74C3C;
     color: #fff;
-    min-height: 430px;
+    min-height: 450px;
     padding: 3rem 0;
 }
 
