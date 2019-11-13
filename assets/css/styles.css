@@ -63,7 +63,7 @@ a {
 .slider {
     background-color: #E74C3C;
     color: #fff;
-    min-height: 480px;
+    min-height: 550px;
     padding: 3rem 0;
 }
 
@@ -164,6 +164,19 @@ a {
 #founder {
     margin-top: 6rem;
     margin-bottom: 2rem;
+}
+
+#videos {
+    margin: 5rem 2rem;
+    color: #4d4d4d;
+}
+
+.video-item {
+    margin: 1rem 0;
+}
+
+.founder-info {
+    color: #4d4d4d;
 }
 
 .pre-footer-space {
