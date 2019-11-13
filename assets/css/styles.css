@@ -167,8 +167,9 @@ a {
 }
 
 #videos {
-    margin: 5rem 2rem;
-    color: #4d4d4d;
+    background-color: #eeeeeeb3;
+    color: #575656;
+    padding: 5rem 2rem;
 }
 
 .video-item {
