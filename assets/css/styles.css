@@ -168,7 +168,7 @@ a {
 }
 
 #articles {
-    background-color: #2d3e4f;
+    background-color: #ffa202;
     color: #fff;
     padding: 6rem 0;
 }
@@ -180,6 +180,26 @@ a {
     min-height: 15rem;
     margin-bottom: 1rem;
     padding: 2rem 1.5rem;
+}
+
+#publications {
+    background-color: #2d3e4f;
+    color: #fff;
+    padding: 6rem 0;
+}
+
+#publications .media {
+    background-color: white;
+    border-radius: 0.5rem;
+    color: #575656;
+    min-height: 5rem;
+    margin-bottom: 1rem;
+    padding: 2rem 1.5rem;
+}
+
+#publications .media img {
+    width: 5rem;
+    height: 5rem;
 }
 
 #feedback {
