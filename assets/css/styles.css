@@ -157,15 +157,6 @@ a {
     padding: 6rem 0;
 }
 
-#feedback {
-    margin: 5rem 0;
-}
-
-#founder {
-    margin-top: 6rem;
-    margin-bottom: 2rem;
-}
-
 #videos {
     background-color: #eeeeeeb3;
     color: #575656;
@@ -174,6 +165,29 @@ a {
 
 .video-item {
     margin: 1rem 0;
+}
+
+#articles {
+    background-color: #2d3e4f;
+    color: #fff;
+    padding: 6rem 0;
+}
+
+#articles .media {
+    background-color: white;
+    border-radius: 0.5rem;
+    color: #575656;
+    min-height: 15rem;
+    padding: 2rem 1.5rem;
+}
+
+#feedback {
+    margin: 5rem 0;
+}
+
+#founder {
+    margin-top: 6rem;
+    margin-bottom: 2rem;
 }
 
 .founder-info {
